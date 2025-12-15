@@ -37,7 +37,6 @@ public class ChatWindow extends JFrame {
         textArea.append(message + "\n");
     }
 
-    // Optional main for testing
     public static void main(String[] args) {
         new ChatWindow("TestUser");
     }
