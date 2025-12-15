@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class DBConnection {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/chatapp"; // your DB
-    private static final String USER = "root"; // your MySQL username
-    private static final String PASS = "De122924"; 
+    private static final String URL = "jdbc:mysql://localhost:3306/chatapp"; // my DB
+    private static final String USER = "root"; // my MySQL username
+    private static final String PASS = "De122924"; //my MYSQL password
 
     private static Connection conn;
 
