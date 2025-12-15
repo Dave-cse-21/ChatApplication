@@ -68,8 +68,6 @@ public class RegisterWindow extends JFrame {
             JOptionPane.showMessageDialog(this, "Error: " + ex.getMessage());
         }
     }
-
-    // Optional: for testing only
     public static void main(String[] args) {
         new RegisterWindow();
     }
