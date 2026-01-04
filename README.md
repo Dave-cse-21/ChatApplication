@@ -1,3 +1,4 @@
+//the calculator assignment is also in the other respo you can check it!using my github username "Dave-cse-21"
 
 # ChatApplication
 
@@ -85,4 +86,8 @@ The project uses the following external library:
 - Successful login indicates database connection works
 - Multiple clients chatting indicates networking and multithreading work
 - Messages appearing in real time indicate socket communication is successful
-
+Author 
+name      Dawit Eyasu 
+sec          3/5  
+program      CSE  
+id        ugr/34206/16
