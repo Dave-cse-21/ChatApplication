@@ -1,4 +1,13 @@
-//the calculator assignment is also in the other respo you can check it!using my github username "Dave-cse-21"
+//README for both chat application and RMICalculator projects respectively:
+
+## Author
+
+name      Dawit Eyasu 
+sec          3/5  
+program      CSE  
+id        ugr/34206/16
+
+
 
 # ChatApplication
 
@@ -86,11 +95,9 @@ The project uses the following external library:
 - Successful login indicates database connection works
 - Multiple clients chatting indicates networking and multithreading work
 - Messages appearing in real time indicate socket communication is successful
-Author 
-name      Dawit Eyasu 
-sec          3/5  
-program      CSE  
-id        ugr/34206/16
+
+
+
 
 
 
@@ -179,14 +186,7 @@ Connects to the remote server, takes user input, invokes remote methods, and dis
 - Learning distributed systems
 - Understanding client–server architecture
 
-## Future Enhancements
-- Add a graphical user interface (GUI)
-- Support multiple clients
-- Implement authentication and security
-- Deploy on separate machines
 
-## Author
-Dawit Eyasu
-ugr/34206/16
+
 sec 3/5
 CSE
