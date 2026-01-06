@@ -1,0 +1,73 @@
+/* Make the whole page centered */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #eaeaea;
+  font-family: Arial, sans-serif;
+}
+
+/* Calculator box */
+.calculator {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  width: 250px;
+}
+
+/* Screen input */
+#screen {
+  width: 100%;
+  height: 40px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: right;
+  padding: 5px 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Buttons grid (4 columns) */
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+/* All buttons style */
+button {
+  padding: 15px;
+  font-size: 18px;
+  background: #eaeaea;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* Hover effect */
+button:hover {
+  background: #d5d5d5;
+}
+
+/* Clear button (C) */
+#clear {
+  background: #ff4d4d;
+  color: white;
+}
+
+#clear:hover {
+  background: #e60000;
+}
+
+/* Equal button (=) */
+button:last-child {
+  background: #4d94ff;
+  color: white;
+}
+
+button:last-child:hover {
+  background: #0066ff;
+}
