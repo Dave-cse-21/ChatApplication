@@ -2,10 +2,10 @@
 
 ## Author
 
-Name             Dawit Eyasu 
-sec                3/5  
-program            CSE  
-id               ugr/34206/16
+Name  -----------------           Dawit Eyasu 
+sec   ------------------             3/5  
+program -----------------           CSE  
+id     ----------------          ugr/34206/16
 
 
 
